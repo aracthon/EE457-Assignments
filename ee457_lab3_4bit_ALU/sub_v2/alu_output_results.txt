@@ -1,0 +1,51 @@
+Test # = 1 
+Inputs:   A = 1011 and  B = 0111 AINV = 0 BNEG = 0
+Opr = 0     AND operation  RESULT = 0011  
+                COUT = 1  OVERFLOW = 0 ZERO = 0 
+ 
+Test # = 2 
+Inputs:   A = 1011 and  B = 0111 AINV = 0 BNEG = 0
+Opr = 1      OR operation  RESULT = 1111  
+                COUT = 1  OVERFLOW = 0 ZERO = 0 
+ 
+Test # = 3 
+Inputs:   A = 1011 and  B = 0111 AINV = 0 BNEG = 0
+Opr = 2     ADD operation  RESULT = 0010  
+                COUT = 1  OVERFLOW = 0 ZERO = 0 
+ 
+Test # = 4 
+Inputs:   A = 1011 and  B = 0111 AINV = 0 BNEG = 1
+Opr = 2     SUB operation  RESULT = 0100  
+                COUT = 1  OVERFLOW = 1 ZERO = 0 
+ 
+Test # = 5 
+Inputs:   A = 1011 and  B = 0111 AINV = 0 BNEG = 1
+Opr = 3     SLT operation  RESULT = 0001  
+                COUT = 1  OVERFLOW = 1 ZERO = 0 
+ 
+Test # = 6 
+Inputs:   A = 0100 and  B = 0111 AINV = 0 BNEG = 1
+Opr = 3     SLT operation  RESULT = 0001  
+                COUT = 0  OVERFLOW = 0 ZERO = 0 
+ 
+Test # = 7 
+Inputs:   A = 0111 and  B = 0100 AINV = 0 BNEG = 1
+Opr = 3     SLT operation  RESULT = 0000  
+                COUT = 1  OVERFLOW = 0 ZERO = 1 
+ 
+Test # = 8 
+Inputs:   A = 1011 and  B = 1100 AINV = 0 BNEG = 1
+Opr = 3     SLT operation  RESULT = 0001  
+                COUT = 0  OVERFLOW = 0 ZERO = 0 
+ 
+Test # = 9 
+Inputs:   A = 1011 and  B = 1010 AINV = 0 BNEG = 1
+Opr = 3     SLT operation  RESULT = 0000  
+                COUT = 1  OVERFLOW = 0 ZERO = 1 
+ 
+Test # = 10 
+Inputs:   A = 1011 and  B = 0111 AINV = 1 BNEG = 1
+Opr = 0     NOR operation  RESULT = 0000  
+                COUT = 0  OVERFLOW = 0 ZERO = 1 
+ 
+All tests concluded!

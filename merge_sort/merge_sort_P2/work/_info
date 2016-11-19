@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d//Mac/Home/Desktop/Modelsim_Projects/min_max_finder/min_max_finder_part3_M2
+vmerge_sort_P2
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 inl4WnU26zLjO>MKAFJ1N1
+IP?LLMISc[n1bSg4m`K1La1
+Z1 d//Mac/Home/Desktop/Modelsim_Projects/merge_sort/merge_sort_P2
+w1472768984
+8merge_sort_P2.v
+Fmerge_sort_P2.v
+L0 44
+Z2 OL;L;10.4a;61
+Z3 !s108 1472768987.000000
+!s107 merge_sort_P2.v|
+!s90 -reportprogress|300|+acc|merge_sort_P2.v|
+!i113 0
+Z4 o+acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+nmerge_sort_@p2
+vmerge_sort_P2_tb
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 B@`0m@=JEIUBcnke3Fd]D1
+Ij]BCInQ]W;6ecSOoOz`:I3
+R1
+w1472687796
+8merge_sort_P2_tb.v
+Fmerge_sort_P2_tb.v
+L0 11
+R2
+R3
+!s107 merge_sort_P2_tb.v|
+!s90 -reportprogress|300|+acc|merge_sort_P2_tb.v|
+!i113 0
+R4
+nmerge_sort_@p2_tb

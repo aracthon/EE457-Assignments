@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d//Mac/Home/Desktop/Modelsim_Projects/min_max_finder/min_max_finder_part2
+vmin_max_finder_part3_M1
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 CMeonSO8n76joKk=z>Cl21
+I2b@3@kU6nJ=@h6@az_oT11
+Z1 d//Mac/Home/Desktop/Modelsim_Projects/min_max_finder/min_max_finder_part3_M1
+w1472092714
+8min_max_finder_part3_M1.v
+Fmin_max_finder_part3_M1.v
+L0 10
+Z2 OL;L;10.4a;61
+Z3 !s108 1472093532.000000
+!s107 min_max_finder_part3_M1.v|
+!s90 -reportprogress|300|+acc|min_max_finder_part3_M1.v|
+!i113 0
+Z4 o+acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+nmin_max_finder_part3_@m1
+vmin_max_finder_part3_M1_tb
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 _]AAb>YMgPadJeUb4iQK60
+I8nCL94hfIN6YAgmF92RZ:3
+R1
+w1359434200
+8min_max_finder_part3_M1_tb.v
+Fmin_max_finder_part3_M1_tb.v
+L0 11
+R2
+R3
+!s107 min_max_finder_part3_M1_tb.v|
+!s90 -reportprogress|300|+acc|min_max_finder_part3_M1_tb.v|
+!i113 0
+R4
+nmin_max_finder_part3_@m1_tb

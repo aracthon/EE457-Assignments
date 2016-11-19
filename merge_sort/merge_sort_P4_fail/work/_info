@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d//Mac/Home/Desktop/Modelsim_Projects/ee457_lab3_4bit_ALU
+vmerge_sort_P4
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 O?lF7;T>;=YeLX@hm2Xki3
+I?0BF1nRnKFUeKXINUfQCc1
+Z1 d//Mac/Home/Desktop/Modelsim_Projects/merge_sort/merge_sort_P4
+w1474698149
+8merge_sort_P4.v
+Fmerge_sort_P4.v
+L0 47
+Z2 OL;L;10.4a;61
+!s108 1474698166.000000
+!s107 merge_sort_P4.v|
+!s90 -reportprogress|300|+acc|merge_sort_P4.v|
+!i113 0
+Z3 o+acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+nmerge_sort_@p4
+vmerge_sort_P4_tb
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 XN]^3Y?UkDQVSXYXbYbmS2
+IfCLiK22jUf8?0Sg9HnTQd0
+R1
+w1455694266
+8merge_sort_P4_tb.v
+Fmerge_sort_P4_tb.v
+L0 13
+R2
+!s108 1474698167.000000
+!s107 merge_sort_P4_tb.v|
+!s90 -reportprogress|300|+acc|merge_sort_P4_tb.v|
+!i113 0
+R3
+nmerge_sort_@p4_tb

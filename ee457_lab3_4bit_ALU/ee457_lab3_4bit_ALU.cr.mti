@@ -1,0 +1,23 @@
+//Mac/Home/Desktop/Modelsim_Projects/ee457_lab3_4bit_ALU/alu_4_bit.v {1 {vlog -work work -vopt -stats=none //Mac/Home/Desktop/Modelsim_Projects/ee457_lab3_4bit_ALU/alu_4_bit.v
+Model Technology ModelSim SE-64 vlog 10.4a Compiler 2015.03 Mar 25 2015
+-- Compiling module alu_1_bit
+-- Compiling module alu_4_bit
+
+Top level modules:
+	alu_4_bit
+
+} {} {}} //Mac/Home/Desktop/Modelsim_Projects/ee457_lab3_4bit_ALU/alu_4_bit_different_stimuli_tb.v {1 {vlog -work work -vopt -stats=none //Mac/Home/Desktop/Modelsim_Projects/ee457_lab3_4bit_ALU/alu_4_bit_different_stimuli_tb.v
+Model Technology ModelSim SE-64 vlog 10.4a Compiler 2015.03 Mar 25 2015
+-- Compiling module alu_4_bit_different_stimuli_tb
+
+Top level modules:
+	alu_4_bit_different_stimuli_tb
+
+} {} {}} //Mac/Home/Desktop/Modelsim_Projects/ee457_lab3_4bit_ALU/alu_4_bit_tb.v {1 {vlog -work work -vopt -stats=none //Mac/Home/Desktop/Modelsim_Projects/ee457_lab3_4bit_ALU/alu_4_bit_tb.v
+Model Technology ModelSim SE-64 vlog 10.4a Compiler 2015.03 Mar 25 2015
+-- Compiling module alu_4_bit_tb
+
+Top level modules:
+	alu_4_bit_tb
+
+} {} {}}

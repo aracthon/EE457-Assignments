@@ -1,0 +1,36 @@
+//Mac/Home/Desktop/Modelsim_Projects/ee457_lab7_P3/ee457_lab7_components.v {1 {vlog -work work -vopt -stats=none {\\Mac\Home\Desktop\Modelsim_Projects\ee457_lab7_P3\ee457_lab7_components.v}
+Model Technology ModelSim SE-64 vlog 10.4a Compiler 2015.03 Mar 25 2015
+-- Compiling module pc
+-- Compiling module ins_mem
+-- Compiling module pipe_if_id_P1
+-- Compiling module pipe_if_id_P3
+-- Compiling module register_file
+-- Compiling module pipe_reg2
+-- Compiling module comp_station_P1
+-- Compiling module comp_station_P3
+
+Top level modules:
+	pc
+	ins_mem
+	pipe_if_id_P1
+	pipe_if_id_P3
+	register_file
+	pipe_reg2
+	comp_station_P1
+	comp_station_P3
+
+} {} {}} //Mac/Home/Desktop/Modelsim_Projects/ee457_lab7_P3/ee457_lab7_P3.v {1 {vlog -work work -vopt -stats=none {\\Mac\Home\Desktop\Modelsim_Projects\ee457_lab7_P3\ee457_lab7_P3.v}
+Model Technology ModelSim SE-64 vlog 10.4a Compiler 2015.03 Mar 25 2015
+-- Compiling module ee457_lab7_P3
+
+Top level modules:
+	ee457_lab7_P3
+
+} {} {}} //Mac/Home/Desktop/Modelsim_Projects/ee457_lab7_P3/ee457_lab7_P3_tb.v {1 {vlog -work work -vopt -stats=none {\\Mac\Home\Desktop\Modelsim_Projects\ee457_lab7_P3\ee457_lab7_P3_tb.v}
+Model Technology ModelSim SE-64 vlog 10.4a Compiler 2015.03 Mar 25 2015
+-- Compiling module ee457_lab7_P3_tb
+
+Top level modules:
+	ee457_lab7_P3_tb
+
+} {} {}}

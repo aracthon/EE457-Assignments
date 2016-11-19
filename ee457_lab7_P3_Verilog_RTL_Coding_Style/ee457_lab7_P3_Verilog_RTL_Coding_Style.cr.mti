@@ -1,0 +1,15 @@
+//Mac/Home/Desktop/Modelsim_Projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style.v {1 {vlog -work work -vopt -stats=none //Mac/Home/Desktop/Modelsim_Projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style.v
+Model Technology ModelSim SE-64 vlog 10.4a Compiler 2015.03 Mar 25 2015
+-- Compiling module ee457_lab7_P3
+
+Top level modules:
+	ee457_lab7_P3
+
+} {} {}} //Mac/Home/Desktop/Modelsim_Projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style_tb.v {1 {vlog -work work -vopt -stats=none //Mac/Home/Desktop/Modelsim_Projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style_tb.v
+Model Technology ModelSim SE-64 vlog 10.4a Compiler 2015.03 Mar 25 2015
+-- Compiling module ee457_lab7_P3_tb
+
+Top level modules:
+	ee457_lab7_P3_tb
+
+} {} {}}

@@ -1,0 +1,60 @@
+ 
+File name: output_results_part3_M1_for_comparison.txt
+ 
+Test number    1: Max: 245 decimal = f5 hex   and   Min:   2 decimal = 02 hex.
+    Design entered DONE state from   Dummy .
+           Clocks taken for this test = XX. 
+
+Test number    2: Max: 185 decimal = b9 hex   and   Min:   1 decimal = 01 hex.
+    Design entered DONE state from   Dummy .
+           Clocks taken for this test = XX. 
+
+Test number    3: Max: 222 decimal = de hex   and   Min:  30 decimal = 1e hex.
+    Design entered DONE state from   Dummy .
+           Clocks taken for this test = XX. 
+
+Test number    4: Max: 255 decimal = ff hex   and   Min:   0 decimal = 00 hex.
+    Design entered DONE state from   Dummy .
+           Clocks taken for this test = XX. 
+
+Test number    5: Max: 130 decimal = 82 hex   and   Min: 115 decimal = 73 hex.
+    Design entered DONE state from   Dummy .
+           Clocks taken for this test = XX. 
+
+Test number    6: Max: 130 decimal = 82 hex   and   Min: 115 decimal = 73 hex.
+    Design entered DONE state from   Dummy .
+           Clocks taken for this test = XX. 
+
+Test number    7: Max: 130 decimal = 82 hex   and   Min: 117 decimal = 75 hex.
+    Design entered DONE state from   Dummy .
+           Clocks taken for this test = XX. 
+
+Test number    8: Max: 129 decimal = 81 hex   and   Min:  35 decimal = 23 hex.
+    Design entered DONE state from   Dummy .
+           Clocks taken for this test = XX. 
+
+Test number    9: Max: 162 decimal = a2 hex   and   Min:   2 decimal = 02 hex.
+    Design entered DONE state from  CMnF .
+           Clocks taken for this test = 25. 
+
+Test number   10: Max: 254 decimal = fe hex   and   Min:  94 decimal = 5e hex.
+    Design entered DONE state from  CMxF .
+           Clocks taken for this test = 26. 
+
+Test number   11: Max: 209 decimal = d1 hex   and   Min:  33 decimal = 21 hex.
+    Design entered DONE state from  CMnF .
+           Clocks taken for this test = 27. 
+
+Test number   12: Max: 245 decimal = f5 hex   and   Min:  17 decimal = 11 hex.
+    Design entered DONE state from   CMx .
+           Clocks taken for this test = 20. 
+
+Test number   13: Max: 166 decimal = a6 hex   and   Min:  70 decimal = 46 hex.
+    Design entered DONE state from  CMxF .
+           Clocks taken for this test = 20. 
+
+Test number   14: Max: 166 decimal = a6 hex   and   Min:  70 decimal = 46 hex.
+    Design entered DONE state from  CMxF .
+           Clocks taken for this test = 20. 
+
+All tests concluded.

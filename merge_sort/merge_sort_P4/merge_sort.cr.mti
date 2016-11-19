@@ -1,0 +1,15 @@
+//Mac/Home/Desktop/Modelsim_Projects/merge_sort/merge_sort_P4/merge_sort_P4.v {1 {vlog -work work -vopt -stats=none //Mac/Home/Desktop/Modelsim_Projects/merge_sort/merge_sort_P4/merge_sort_P4.v
+Model Technology ModelSim SE-64 vlog 10.4a Compiler 2015.03 Mar 25 2015
+-- Compiling module merge_sort_P4
+
+Top level modules:
+	merge_sort_P4
+
+} {} {}} //Mac/Home/Desktop/Modelsim_Projects/merge_sort/merge_sort_P4/merge_sort_P4_tb.v {1 {vlog -work work -vopt -stats=none //Mac/Home/Desktop/Modelsim_Projects/merge_sort/merge_sort_P4/merge_sort_P4_tb.v
+Model Technology ModelSim SE-64 vlog 10.4a Compiler 2015.03 Mar 25 2015
+-- Compiling module merge_sort_P4_tb
+
+Top level modules:
+	merge_sort_P4_tb
+
+} {} {}}

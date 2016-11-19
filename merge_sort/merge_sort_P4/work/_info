@@ -1,0 +1,59 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 dC:/modeltech64_10.4a/examples
+T_opt
+!s110 1474698837
+VEYU<WARzeRZQHLfM0b6o40
+04 13 4 work merge_sort_P4 fast 0
+=1-001c4269d296-57e61e55-10f-858
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4a;61
+R0
+vmerge_sort_P4
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 @0;8U[@RSHD8NIjPlNfY40
+I5dmG5PNX3Z8cAKf1o2h^11
+Z2 d//Mac/Home/Desktop/Modelsim_Projects/merge_sort/merge_sort_P4
+w1474702000
+8merge_sort_P4.v
+Fmerge_sort_P4.v
+L0 47
+Z3 OL;L;10.4a;61
+!s108 1474702024.000000
+!s107 merge_sort_P4.v|
+!s90 -reportprogress|300|+acc|merge_sort_P4.v|
+!i113 0
+Z4 o+acc -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+nmerge_sort_@p4
+vmerge_sort_P4_tb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 XN]^3Y?UkDQVSXYXbYbmS2
+IfCLiK22jUf8?0Sg9HnTQd0
+R2
+w1455694266
+8merge_sort_P4_tb.v
+Fmerge_sort_P4_tb.v
+L0 13
+R3
+!s108 1474702025.000000
+!s107 merge_sort_P4_tb.v|
+!s90 -reportprogress|300|+acc|merge_sort_P4_tb.v|
+!i113 0
+R4
+nmerge_sort_@p4_tb

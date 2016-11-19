@@ -1,0 +1,50 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d//Mac/Home/Desktop/Modelsim_Projects/ee457_lab7_P3
+vee457_lab7_P3
+Z0 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 j?ZZo9A?;e@>UT@0V@0dV2
+IbZ9BKT0?gHnNQHU8l6KFW0
+Z1 d//Mac/Home/Desktop/Modelsim_Projects/ee457_lab7_P3_Verilog_RTL_Coding_Style
+w1290391646
+8//Mac/Home/Desktop/Modelsim_Projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style.v
+F//Mac/Home/Desktop/Modelsim_Projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style.v
+L0 15
+Z2 OL;L;10.4a;61
+Z3 !s108 1478744150.000000
+!s107 //Mac/Home/Desktop/Modelsim_Projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|//Mac/Home/Desktop/Modelsim_Projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style.v|
+!i113 0
+Z4 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+nee457_lab7_@p3
+vee457_lab7_P3_tb
+R0
+r1
+!s85 0
+31
+!i10b 1
+!s100 Z9WPB]1=oc4>?7KcB3^mL3
+IGd==<H@dUBbXj>4oJIC=W3
+R1
+w1352481244
+8//Mac/Home/Desktop/Modelsim_Projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style_tb.v
+F//Mac/Home/Desktop/Modelsim_Projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style_tb.v
+L0 9
+R2
+R3
+!s107 //Mac/Home/Desktop/Modelsim_Projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|//Mac/Home/Desktop/Modelsim_Projects/ee457_lab7_P3_Verilog_RTL_Coding_Style/ee457_lab7_P3_RTL_Coding_Style_tb.v|
+!i113 0
+R4
+nee457_lab7_@p3_tb

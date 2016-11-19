@@ -1,0 +1,208 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+d//Mac/Home/Desktop/Modelsim_Projects/fifo/part1
+vcomp_station_P1
+Z0 !s110 1476914878
+!i10b 1
+!s100 W=3kR<QfQT3MUVeoTV4NH0
+I^<1JjBMjdZoJ:b>@0bi_f2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 d//Mac/Home/Desktop/Modelsim_Projects/ee457_lab7_P3
+Z3 w1289377602
+Z4 8\\Mac\Home\Desktop\Modelsim_Projects\ee457_lab7_P3\ee457_lab7_components.v
+Z5 F\\Mac\Home\Desktop\Modelsim_Projects\ee457_lab7_P3\ee457_lab7_components.v
+L0 162
+Z6 OL;L;10.4a;61
+r1
+!s85 0
+31
+Z7 !s108 1476914878.000000
+Z8 !s107 \\Mac\Home\Desktop\Modelsim_Projects\ee457_lab7_P3\ee457_lab7_components.v|
+Z9 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|\\Mac\Home\Desktop\Modelsim_Projects\ee457_lab7_P3\ee457_lab7_components.v|
+!i113 0
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+ncomp_station_@p1
+vcomp_station_P3
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 dO6[3YE@6a_[mVe;m60CG1
+IlV1;jMQNlRMMQO;5ZBYch1
+R2
+R3
+R4
+R5
+L0 186
+R6
+R7
+R8
+R9
+!i113 0
+R10
+ncomp_station_@p3
+vee457_lab7_P3
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 V[cEL=XP3C>D@`k^1hCfZ0
+IO?oVd[Fl39Ul:laRGI1K;0
+R2
+w1476914876
+8\\Mac\Home\Desktop\Modelsim_Projects\ee457_lab7_P3\ee457_lab7_P3.v
+F\\Mac\Home\Desktop\Modelsim_Projects\ee457_lab7_P3\ee457_lab7_P3.v
+L0 29
+R6
+!s108 1476914879.000000
+!s107 \\Mac\Home\Desktop\Modelsim_Projects\ee457_lab7_P3\ee457_lab7_P3.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|\\Mac\Home\Desktop\Modelsim_Projects\ee457_lab7_P3\ee457_lab7_P3.v|
+!i113 0
+R10
+nee457_lab7_@p3
+vee457_lab7_P3_tb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 X3hk`G=DKPH7lTOOzc;hU2
+IU;O8Uo=W[;2`0ljFC:XPX3
+R2
+w1299369402
+8\\Mac\Home\Desktop\Modelsim_Projects\ee457_lab7_P3\ee457_lab7_P3_tb.v
+F\\Mac\Home\Desktop\Modelsim_Projects\ee457_lab7_P3\ee457_lab7_P3_tb.v
+L0 8
+R6
+R7
+!s107 \\Mac\Home\Desktop\Modelsim_Projects\ee457_lab7_P3\ee457_lab7_P3_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|\\Mac\Home\Desktop\Modelsim_Projects\ee457_lab7_P3\ee457_lab7_P3_tb.v|
+!i113 0
+R10
+nee457_lab7_@p3_tb
+vins_mem
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 TPHgZiikK5aKh]QIFbj230
+Igf@8`CZGfA;VT`i4JmM0Y2
+R2
+R3
+R4
+R5
+L0 24
+R6
+R7
+R8
+R9
+!i113 0
+R10
+vpc
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 5>m`5T6YWM^FbSak=UZS90
+Ifnn05S:Zh]H<]PGnd?Vo12
+R2
+R3
+R4
+R5
+L0 9
+R6
+R7
+R8
+R9
+!i113 0
+R10
+vpipe_if_id_P1
+R0
+!i10b 1
+!s100 8]lKKUfo;nVeeo[?=3AO53
+I4AZbCZld>Qa4<JW:z7F[V0
+R1
+R2
+R3
+R4
+R5
+L0 32
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 0
+R10
+npipe_if_id_@p1
+vpipe_if_id_P3
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 1ajb^<=32o4]UHogn<z5<3
+Il8Eca];XRj1OfE0c>OOgI3
+R2
+R3
+R4
+R5
+L0 61
+R6
+R7
+R8
+R9
+!i113 0
+R10
+npipe_if_id_@p3
+vpipe_reg2
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 @U<U@LgOT<e?LFH_7DB;23
+I]2gGGYP<4QB7o9_o5M2`Q2
+R2
+R3
+R4
+R5
+L0 112
+R6
+R7
+R8
+R9
+!i113 0
+R10
+vregister_file
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 Uz:[DWaA;aFkjzN?_F;HV1
+Ic_8R8>m;7?n9MKW`_DkKU1
+R2
+R3
+R4
+R5
+L0 87
+R6
+R7
+R8
+R9
+!i113 0
+R10

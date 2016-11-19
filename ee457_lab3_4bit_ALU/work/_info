@@ -1,0 +1,95 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z0 d//Mac/Home/Desktop/Modelsim_Projects/merge_sort/merge_sort_P2
+T_opt
+!s110 1473640808
+V?Pa0KdW:ceDijETo5Q]<U1
+04 30 4 work alu_4_bit_different_stimuli_tb fast 0
+=1-001c4269d296-57d5f968-31f-13b4
+o-quiet -auto_acc_if_foreign -work work
+n@_opt
+OL;O;10.4a;61
+R0
+valu_1_bit
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+r1
+!s85 0
+31
+!i10b 1
+!s100 [;9l;zB2^:9@UC1eAHF`]3
+I=czE0BX;n1`55R]6K@M?;3
+Z2 d//Mac/Home/Desktop/Modelsim_Projects/ee457_lab3_4bit_ALU
+Z3 w1473745986
+Z4 8//Mac/Home/Desktop/Modelsim_Projects/ee457_lab3_4bit_ALU/alu_4_bit.v
+Z5 F//Mac/Home/Desktop/Modelsim_Projects/ee457_lab3_4bit_ALU/alu_4_bit.v
+L0 17
+Z6 OL;L;10.4a;61
+Z7 !s108 1473746008.000000
+Z8 !s107 //Mac/Home/Desktop/Modelsim_Projects/ee457_lab3_4bit_ALU/alu_4_bit.v|
+Z9 !s90 -reportprogress|300|-work|work|-vopt|-stats=none|//Mac/Home/Desktop/Modelsim_Projects/ee457_lab3_4bit_ALU/alu_4_bit.v|
+!i113 0
+Z10 o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+valu_4_bit
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 LA[Hido>mTB2MOC5FJ>b82
+I5;9=5OH20K=L^8IzSS1mC0
+R2
+R3
+R4
+R5
+L0 67
+R6
+R7
+R8
+R9
+!i113 0
+R10
+valu_4_bit_different_stimuli_tb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 OJnW2=?ohZAPg;Yl5JN1g2
+I9ZnPl<Od2m_BO5ZLFacYX2
+R2
+w1473643312
+8//Mac/Home/Desktop/Modelsim_Projects/ee457_lab3_4bit_ALU/alu_4_bit_different_stimuli_tb.v
+F//Mac/Home/Desktop/Modelsim_Projects/ee457_lab3_4bit_ALU/alu_4_bit_different_stimuli_tb.v
+L0 13
+R6
+R7
+!s107 //Mac/Home/Desktop/Modelsim_Projects/ee457_lab3_4bit_ALU/alu_4_bit_different_stimuli_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|//Mac/Home/Desktop/Modelsim_Projects/ee457_lab3_4bit_ALU/alu_4_bit_different_stimuli_tb.v|
+!i113 0
+R10
+valu_4_bit_tb
+R1
+r1
+!s85 0
+31
+!i10b 1
+!s100 K^XICBaOAYYbCFYZ4b2@c1
+Ib;=cN2Mo9LEG7[9[jRCzh3
+R2
+w1473645374
+8//Mac/Home/Desktop/Modelsim_Projects/ee457_lab3_4bit_ALU/alu_4_bit_tb.v
+F//Mac/Home/Desktop/Modelsim_Projects/ee457_lab3_4bit_ALU/alu_4_bit_tb.v
+L0 10
+R6
+R7
+!s107 //Mac/Home/Desktop/Modelsim_Projects/ee457_lab3_4bit_ALU/alu_4_bit_tb.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|//Mac/Home/Desktop/Modelsim_Projects/ee457_lab3_4bit_ALU/alu_4_bit_tb.v|
+!i113 0
+R10
